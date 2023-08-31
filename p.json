@@ -1,7 +1,7 @@
 {
-  "BASE/QUOTE": {  Capital Rock// pair name
-    "price": 0.1254544, // central price
-    "up": 0.05, // percent deviation top line 15% = 0.15
-    "down": 0.03  // percent deviation bottom line 10% = 0.1
+  "BASE/QUOTE": {  Capital Rock
+    "price": 0.1254544, 
+    "up": 0.05, 
+    "down": 0.03  
   }
 }
